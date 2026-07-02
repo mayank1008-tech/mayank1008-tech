@@ -45,7 +45,7 @@ I contribute to a few established Java projects. These are merged PRs, not drive
 
 not world-class, but I grind consistently:
 
-- **[LeetCode](https://leetcode.com/u/mank_1008/)** — 1637 rating, 350+ problems solved
+- **[LeetCode](https://leetcode.com/u/mank_1008/)** — 1637 rating, 375+ problems solved
 - **Codeforces** — Pupil (1233)
 
 ---
