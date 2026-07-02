@@ -13,7 +13,7 @@ Currently looking for **SDE internships** where I can work on real infrastructur
 I contribute to a few established Java projects. These are merged PRs, not drive-by typo fixes:
 
 **traccar/traccar** (7.5k ★) — GPS tracking platform
-- `merged` Implemented user email attribution in audit logs; batch fetching to fix N+1 query overhead. 12 comments of review back-and-forth. — [#5719](https://github.com/traccar/traccar/pull/5719)
+- `merged` Implemented user email attribution in audit logs; batch fetching to fix N+1 query overhead. — [#5719](https://github.com/traccar/traccar/pull/5719)
 
 **JabRef/jabref** (4.3k ★) — reference manager
 - `merged` Fixed linked-file substring search bugs by preserving wildcard chars; refactored web labels to standardized i18n keys. — [#14561](https://github.com/JabRef/jabref/pull/14561)
