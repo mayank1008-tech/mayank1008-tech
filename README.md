@@ -10,7 +10,7 @@ Currently looking for **SDE internships** where I can work on real infrastructur
 
 ### Proof of work — open source contributions
 
-I contribute to a few established Java projects. These are merged PRs, not drive-by typo fixes:
+I contribute to a few established Java projects:
 
 **traccar/traccar** (7.5k ★) — GPS tracking platform
 - `merged` Implemented user email attribution in audit logs; batch fetching to fix N+1 query overhead. — [#5719](https://github.com/traccar/traccar/pull/5719)
