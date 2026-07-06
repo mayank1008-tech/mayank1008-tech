@@ -66,4 +66,4 @@ exploring       system design, distributed systems, security, architecture
 ### find me
 
 - **email** — mj.mayank98@gmail.com
-- **linkedin** — [mayank-jain-78a6b6321](https://linkedin.com/in/mayank-jain-78a6b6321)
+- **linkedin** — [Mayank Jain](https://linkedin.com/in/mayank-jain-78a6bb321)
