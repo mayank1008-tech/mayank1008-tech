@@ -49,7 +49,7 @@ I contribute to a few established Java projects:
 
 Not world class, but I grind consistently😁:
 
-- **[LeetCode](https://leetcode.com/u/mank_1008/)** — 1637 rating, 400+ problems solved
+- **[LeetCode](https://leetcode.com/u/mank_1008/)** — 1681 rating, 400+ problems solved
 - **Codeforces** — Pupil (1233)
 
 ---
