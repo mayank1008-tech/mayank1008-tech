@@ -15,6 +15,7 @@ I contribute to a few established Java projects:
 **h2database/h2database** (8.4k ★) — Java SQL database engine
 - `merged` Fixed a parser and query optimization bug in Index Condition Pushdown logic; implemented strict boundary checks before optimization to prevent lossy implicit casts (ex: DOUBLE to INT) from causing duplicate row evaluations in subquery cursors, while preserving pushdown optimizations for safe, same family types (INT, BIGINT, SMALLINT). — [#4359](https://github.com/h2database/h2database/pull/4359)
 - `open` Added Invisible Indexes feature for letting developers test behavior of query planner and optimizations it goes through without considering invisible indexes. Added SQL based regression tests giving maximum code coverage. — [#4365](https://github.com/h2database/h2database/pull/4365)
+- `merged` Fixed TCP Server leak and memory pool exhaustion during DB initialization failure. -[#4363](https://github.com/h2database/h2database/pull/4363#event-30075731325)
 
 **traccar/traccar** (7.5k ★) — GPS tracking platform
 - `merged` Implemented user email attribution in audit logs; batch fetching to fix N+1 query overhead. — [#5719](https://github.com/traccar/traccar/pull/5719)
