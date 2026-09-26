@@ -24,9 +24,9 @@ I contribute to a few established Java projects:
 - `merged` Fixed linked-file substring search bugs by preserving wildcard chars; refactored web labels to standardized i18n keys. — [#14561](https://github.com/JabRef/jabref/pull/14561)
 
 **ical4j/ical4j** (1k ★) — iCalendar parsing library
-- `open` Fixed yearly recurrence generation breaking when DTSTART is in UTC format. — [#893](https://github.com/ical4j/ical4j/pull/893)
+- `merged` Fixed yearly recurrence generation breaking when DTSTART is in UTC format. — [#893](https://github.com/ical4j/ical4j/pull/893)
 - `merged` Fixed UTC offset bug in Period.toInterval for OffsetDateTime. — [#882](https://github.com/ical4j/ical4j/pull/882)
-- `open` Added TEXT_VALUE handling for String parameters in StructuredData. — [#898](https://github.com/ical4j/ical4j/pull/898)
+- `merged` Added TEXT_VALUE handling for String parameters in StructuredData. — [#898](https://github.com/ical4j/ical4j/pull/898)
 
 **CodeVoyager3/MediChain** — hackathon team project (CodeVeda 2.0, 3rd place at ThoughtWorks)
 - `merged` Built blockchain service: minting, access granting, and insurer verification endpoints. — [#1](https://github.com/CodeVoyager3/MediChain/pull/1)
